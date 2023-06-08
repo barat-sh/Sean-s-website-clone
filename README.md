@@ -8,4 +8,4 @@
 
  Sean Haplin website clone | using HTML, CSS
 
-click here---https://barathelangovan.github.io/Sean-s-website-clone/
+click here---https://barathelango.github.io/Sean-s-website-clone/
